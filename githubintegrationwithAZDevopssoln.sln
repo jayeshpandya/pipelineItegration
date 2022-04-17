@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubintegrationwithAZDevops", "githubintegrationwithAZDevops\githubintegrationwithAZDevops.csproj", "{9BE4D530-0B9D-43AE-977E-BA27C47E3D33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE4D530-0B9D-43AE-977E-BA27C47E3D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE4D530-0B9D-43AE-977E-BA27C47E3D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE4D530-0B9D-43AE-977E-BA27C47E3D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE4D530-0B9D-43AE-977E-BA27C47E3D33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50CCC97A-878F-45D2-9FA0-537A635879F0}
+	EndGlobalSection
+EndGlobal
